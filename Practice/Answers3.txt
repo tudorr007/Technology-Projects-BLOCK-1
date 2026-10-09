@@ -1,0 +1,6 @@
+CPU - Processes instructions - GHz, cores
+RAM - Temporarily sotres data - GB
+Storage - Saves files permanently - GB or TB
+Motherboard - Connects components - Size, socket
+Power Supply - Provides power - Watts(W)
+Cooling - Prevents overheating - RPM, size

@@ -1,0 +1,3 @@
+Before opening: box with calbes coming out of it connected to keyboard, mouse and monitor
+
+After opening: Motherboard with CPU, GPU, PSU, RAM sticks and SSD connected to it

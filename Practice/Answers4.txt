@@ -1,0 +1,8 @@
+SoC - Combines CPU and other components
+GPIO - Connects external devices
+USB - Connects peripherals
+HDMI - Outputs video and audio
+Power - Supplies electricity
+microSD - Stores files and the OS
+Network - Connects to wired networks
+Wireless - Connects to Wi-Fi and Bluetooth

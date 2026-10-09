@@ -1,0 +1,5 @@
+During this lab i learned more about computer harware and how different components work together. I was surprised by how many parts are needed for a computer to work.
+Some components that were new to me are CPU, RAM and motherboard. I learned that the CPU processes instructions, RAM stores temporary data and the motherboard connects all the components together.
+I didnt face any challenges as the lessons was very straight forward and it was delivered perfectly.
+I also learned about embbeded systems such as raspberry Pi and learned about the different components and their size. Also learned the basics of it and GitHub and how to manage files and upload them into GitHub using CLI.
+Overall the lab helped understand how different components work together and taught me how to manage files and how to sync them to my github account all using commands
