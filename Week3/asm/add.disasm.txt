@@ -1,0 +1,13 @@
+
+add:     file format elf64-littleaarch64
+
+
+Disassembly of section .text:
+
+0000000000400078 <_start>:
+  400078:	d28000a1 	mov	x1, #0x5                   	// #5
+  40007c:	d2800062 	mov	x2, #0x3                   	// #3
+  400080:	8b020020 	add	x0, x1, x2
+  400084:	d2800ba8 	mov	x8, #0x5d                  	// #93
+  400088:	d2800000 	mov	x0, #0x0                   	// #0
+  40008c:	d4000001 	svc	#0x0
